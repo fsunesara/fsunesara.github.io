@@ -1,3 +1,2 @@
 # fsunesara.github.io
-memes
-welcome to hell
+my personal website
