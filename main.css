@@ -1,3 +1,8 @@
+@font-face {
+    font-family:"VCR_OSD_MONO_1.001";
+    src: url("VCR_OSD_MONO_1.001.ttf")
+}
+
 body {
 	color: #444;
 	font-size: 18px;
