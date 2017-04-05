@@ -1,10 +1,10 @@
 @font-face {
     font-family:"VCR";
-    src: url("css/VCR_OSD_MONO_1.001.ttf")
+    src: url("VCR_OSD_MONO_1.001.ttf")
 }
 
 body {
-	font-family:'VCR', sans-serif;
+	font-family:'VCR', monospace;
 	color: #444;
 	font-size: 18px;
 	line-height: 1.6;
