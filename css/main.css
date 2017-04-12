@@ -7,7 +7,7 @@ body {
 	font-family:'VCR', monospace;
 	font-weight: normal;
 	color: #444;
-	font-size: 12px;
+	font-size: 18px;
 	line-height: 1.6;
 	margin: 40px auto;
 	max-width: 650px;
@@ -15,13 +15,13 @@ body {
 }
 
 h1 {
-	font-size: 12px;
+	font-size: 18px;
 	font-weight: normal;
 	text-align: center;
 }
 
 h2, h3 {
-	font-size: 12px;
+	font-size: 18px;
 	font-weight: normal;
 	line-height: 1.2;
 }
