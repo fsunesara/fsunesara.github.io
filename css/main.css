@@ -1,26 +1,20 @@
 @font-face {
-    font-family:"VCR";
-    src: url("VCR_OSD_MONO_1.001.ttf");
+	font-family:"VCR";
+	src: url("VCR_OSD_MONO_1.001.ttf");
 }
 
 body {
 	font-family:'VCR', monospace;
 	font-weight: normal;
 	color: #444;
-	font-size: 14px;
-	line-height: 22px;
+	font-size: 18px;
+	line-height: 1.6;
 	margin: 40px auto;
 	max-width: 650px;
 	padding: 0 10px;
 }
 
-h1 {
-	font-size: 14px;
-	font-weight: normal;
-}
-
-h2, h3 {
-	font-size: 14px;
+h1, h2, h3 {
 	font-weight: normal;
 	line-height: 1.2;
 }
